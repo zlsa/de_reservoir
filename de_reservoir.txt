@@ -1,0 +1,12 @@
+// TAVR - AUTO RADAR. v 2.5.0a
+"de_reservoir"
+{
+	"CTSpawn_x" "0.740000"
+	"CTSpawn_y" "0.750000"
+	"TSpawn_x" "-0.060000"
+	"TSpawn_y" "0.200000"
+	"material" "overviews/de_reservoir"
+	"pos_x" "-1408.000000"
+	"pos_y" "1408.000000"
+	"scale" "3.250000"
+}
